@@ -38,14 +38,12 @@ printf("hello");
 
 unordered list
 
--Fruits 
+-Fruits
 
     -Apple
-  
     -Mango
   
 -Flowers
 
     -tulip
-  
-     -jasmine
+    -jasmine.
